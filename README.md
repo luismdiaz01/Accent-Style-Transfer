@@ -1,7 +1,5 @@
 # Accent Style Transfer
 
-DSC160 Data Science and the Arts - Final Project - Generative Arts - Spring 2020
-
 Project Team Members: 
 - Luis Diaz, lmd003@ucsd.edu
 - Catherine Hou, cahou@ucsd.edu
